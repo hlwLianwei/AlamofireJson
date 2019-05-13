@@ -1,0 +1,12 @@
+{
+  "status":0,
+  "message":"success",
+  "result":{
+    "id":1,
+    "name":"体育中心1号桩A枪",
+    "qrcode":"00010101001A",
+    "gunId":1,
+    "pileId":1,
+    "state":0
+  }
+}
